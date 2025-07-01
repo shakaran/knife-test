@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "rector/swiss-knife": "^2.3"
+    }
+}
